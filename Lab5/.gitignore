@@ -1,0 +1,5 @@
+﻿data/
+*.csv
+*-ubyte
+*.gz
+.ipynb_checkpoints/
